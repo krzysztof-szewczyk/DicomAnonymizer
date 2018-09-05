@@ -1,0 +1,9 @@
+# ---> Eclipse
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+/target/
